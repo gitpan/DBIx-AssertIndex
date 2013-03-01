@@ -25,5 +25,5 @@ requires:
   perl: 5.8.9
 resources:
   license: http://dev.perl.org/licenses/
-  repository: ssh://git@git.lo.mixi.jp/packages/perl-DBIx-AssertIndex
-version: 0.01
+  repository: git://github.com/mixi-inc/p5-DBIx-AssertIndex.git
+version: 0.02

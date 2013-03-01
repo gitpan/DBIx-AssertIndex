@@ -45,7 +45,7 @@
          "http://dev.perl.org/licenses/"
       ],
       "repository" : {
-         "url" : "ssh://git@git.lo.mixi.jp/packages/perl-DBIx-AssertIndex"
+         "url" : "git://github.com/mixi-inc/p5-DBIx-AssertIndex.git"
       }
    },
    "version" : "0.01"
